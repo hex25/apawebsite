@@ -12,8 +12,8 @@ main {
 
 #navbar {
   position: fixed;
-  background-color:black;
   width: 100%;
+  background-color:black;
   height: auto;
 }
 
@@ -133,7 +133,6 @@ audio {
 
 footer {
   background-color: #ffffff;
-  width: 100%;
   text-align: center;
   padding: 20px 10px 10px 10px;
 
@@ -149,13 +148,13 @@ footer {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4px;
+  padding: 0 3px;
 }
 
 .column {
   flex: 25%;
   max-width: 24%;
-  padding: 0 4px;
+  padding: 0 3px;
 }
 
 .column img {
@@ -197,6 +196,6 @@ audio {
 @media (max-width: 800px) {
   .column {
     flex: 50%;
-    max-width: 45%;
+    max-width: 48%;
   }
 }

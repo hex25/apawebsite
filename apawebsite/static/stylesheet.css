@@ -55,9 +55,6 @@ main {
   text-align: center;
   min-height: 30vh;
   padding-top: 80vh;
-  margin-left: -20px;
-  margin-right: -20px;
-
 }
 
 #welcome-section p{
@@ -82,8 +79,6 @@ audio {
   text-align: center;
   min-height: 80vh;
   padding-top: 30vh;
-  margin-left: -20px;
-  margin-right: -20px;
 }
 
 .contactitem {
@@ -202,6 +197,6 @@ audio {
 @media (max-width: 800px) {
   .column {
     flex: 50%;
-    max-width: 48%;
+    max-width: 45%;
   }
 }

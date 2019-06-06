@@ -96,7 +96,6 @@ audio {
 
 .contactitem:hover {
   border: inset 5px;
-  border-color:  #b76cc5;
   transition-delay: 0.2s;
 }
 
